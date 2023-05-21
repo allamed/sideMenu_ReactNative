@@ -1,7 +1,7 @@
 
 # React Native Customizable Sidebar Menu
 
-This project is a customizable sidebar menu application built with React Native. It provides a flexible and user-friendly interface with a sidebar menu that can be easily customized to suit various application needs.
+This project is a customizable sidebar menu built with React Native. It provides a flexible and user-friendly interface with a sidebar menu that can be easily customized to suit various application needs.
 
 # preview
 ![sidebar](https://github.com/allamed/sideMenu_ReactNative/assets/93490149/3aea6be9-ca01-4052-a632-f71db0111a55)
